@@ -1,0 +1,1 @@
+# kind_euclid6
